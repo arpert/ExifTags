@@ -1,0 +1,6 @@
+C:\Users\arpert\Documents\SharpDevelop Projects\ExifTags\obj\Debug\ExifTags.csprojResolveAssemblyReference.cache
+C:\Users\arpert\Documents\SharpDevelop Projects\ExifTags\bin\Debug\ExifTags.exe.config
+C:\Users\arpert\Documents\SharpDevelop Projects\ExifTags\bin\Debug\ExifTags.exe
+C:\Users\arpert\Documents\SharpDevelop Projects\ExifTags\bin\Debug\ExifTags.pdb
+C:\Users\arpert\Documents\SharpDevelop Projects\ExifTags\obj\Debug\ExifTags.exe
+C:\Users\arpert\Documents\SharpDevelop Projects\ExifTags\obj\Debug\ExifTags.pdb

@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<exifTags xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <tag idhex="0" id="0" IFD="IFD" key="key" type="type">
+    <description>desc</description>
+  </tag>
+  <tag idhex="1" id="1" IFD="IFD" key="key" type="type">
+    <description>desc</description>
+  </tag>
+  <tag idhex="2" id="2" IFD="IFD" key="key" type="type">
+    <description>desc</description>
+  </tag>
+  <tag idhex="3" id="3" IFD="IFD" key="key" type="type">
+    <description>desc</description>
+  </tag>
+  <tag idhex="4" id="4" IFD="IFD" key="key" type="type">
+    <description>desc</description>
+  </tag>
+  <tag idhex="5" id="5" IFD="IFD" key="key" type="type">
+    <description>desc</description>
+  </tag>
+  <tag idhex="6" id="6" IFD="IFD" key="key" type="type">
+    <description>desc</description>
+  </tag>
+  <tag idhex="7" id="7" IFD="IFD" key="key" type="type">
+    <description>desc</description>
+  </tag>
+  <tag idhex="8" id="8" IFD="IFD" key="key" type="type">
+    <description>desc</description>
+  </tag>
+  <tag idhex="9" id="9" IFD="IFD" key="key" type="type">
+    <description>desc</description>
+  </tag>
+</exifTags>
